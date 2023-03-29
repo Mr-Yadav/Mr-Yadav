@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Mr-Yadav/Mr-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... News App
+- 🌱 I’m currently learning ... Android Development
+- 👯 I’m looking to collaborate on ... Android Project 
+- 🤔 I’m looking for help with ... Internship
+- 💬 Ask me about ... Android
+- 📫 How to reach me: ... vikashyadav5911@gmail.com
+- ⚡ Fun fact: ... KOi fun fact nhi hai sab serious fact hai
 -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DJ wale+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
