@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Exciting Android Projects**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for helpp with **Internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mr-Yadav](https://github.com/Mr-Yadav)
 
