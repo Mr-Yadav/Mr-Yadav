@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [News App](https://github.com/Mr-Yadav/News_App)
 
-- 🌱 I’m currently learning **Android Jetpack**
+- 🌱 I’m currently learning **Jetpack| Compose **
 
 - 👯 I’m looking to collaborate on **Exciting Android Projects**
 
