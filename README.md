@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Jetpack| Compose **
 
-- 👯 I’m looking to collaborate on **Exciting Android Projects**
+- 👯 I’m looking to collaborate on **Exciting Android Projects and Meme**
 
 - 🤝 I’m looking for helpp with **Internship**
 
